@@ -1,6 +1,6 @@
 # 你好啊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![lzcc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizicoco)
+![lzcc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lizicoco&bg_color=2d2d2d&color=cccccc&line=cccccc&point=cccccc&area=true&hide_border=true)
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/CAT-Chestnut-yellow">
