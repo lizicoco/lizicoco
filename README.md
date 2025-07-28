@@ -20,8 +20,8 @@
  - 栗子和可可 :point_down: 
 
 <div style="text-align: center">
-  <img src="https://github.com/user-attachments/assets/8964c45d-6e7f-4ecf-baf9-8c3ae69b4dfc" style="display: inline-block; margin: 10px; width: 500px; height: 500px;">
-  <img src="https://github.com/user-attachments/assets/d172cadc-0568-4e46-b228-a81ec722d833" style="display: inline-block; margin: 10px; width: 500px; height: 500px;">
+  <img src="https://github.com/user-attachments/assets/8964c45d-6e7f-4ecf-baf9-8c3ae69b4dfc" style="display: inline-block; margin: 10px; width: 400px; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/d172cadc-0568-4e46-b228-a81ec722d833" style="display: inline-block; margin: 10px; width: 400px; height: 400px;">
 </div>
 
 ## 后续计划
