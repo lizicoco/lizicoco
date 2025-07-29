@@ -9,13 +9,13 @@
 
  - :technologist: 我是一个网络安全从业者
    
- - :cyclone: 正在学习 Learning Java,Go,Python
+ - :cyclone: 正在学习 `Java`,`Go`,`Python`
    
  - :computer: 我的主页 [www.lzcc.cc](https://www.lzcc.cc)
    
  - :mailbox: 联系我 <lzcc@lzcc.cc>
 
-## 后续计划
+## 后续💩山开发计划
 
 | 序号  | 名称  | 简介  | 预计发布时间  | 开发进度 |
 |:----------|:----------|:----------|:----------|:----------|
